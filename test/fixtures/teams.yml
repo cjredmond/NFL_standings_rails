@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  win: 
+  loss: 
+  div: 
+  conf: MyString
+
+two:
+  win: 
+  loss: 
+  div: 
+  conf: MyString
